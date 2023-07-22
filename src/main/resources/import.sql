@@ -1,0 +1,1 @@
+INSERT INTO produtos(preco, quantidade_entrada, quantidade_saida, saldo_produto, nome_produto) VALUES('14.00', '1.0', '0.0', '1.0', 'Cafe');
